@@ -1,2 +1,7 @@
-alert('VAI TOMAR NO CU TO CANSADO DESSA PORRAS')
-document.getElementById('nome').value = 'FODASE'
+//alert('Olá, seja bem vindo ao curso!!!')
+
+/*
+	selecionar um elemento no DOM
+	atualizar o valor desse elemento com uma string
+*/
+document.getElementById('nome').value = 'Oi'
